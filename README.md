@@ -16,4 +16,4 @@ npm run build
 ```
 
 ### demo
-See (https://chtodolist.netlify.app/).
+See [https://chtodolist.netlify.app/].
